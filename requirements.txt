@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+keras
+tensorflow
+opencv-python
+tqdm
+pillow
+warnings
+os
+zipfile
+random
+sys
